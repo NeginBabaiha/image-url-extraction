@@ -8,8 +8,6 @@ This project provides a Python-based tool to search Google Images and extract UR
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
@@ -58,14 +56,6 @@ To get started with the project, follow these steps:
 3. **View results:**
 
     The extracted image URLs will be saved in the `output/urls.txt` file.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue. Follow the standard GitHub workflow for contributing.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
 
 ## Contact
 
