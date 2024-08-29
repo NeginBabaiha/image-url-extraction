@@ -61,7 +61,9 @@ To get started with the project, follow these steps:
 
 For any questions or further information, please contact:
 
-- **Your Name**  
+- **Philipp Münker**  
+  [s7phmuen@uni-bonn.de](mailto:s7phmuen@uni-bonn.de)  
+- **Negin Babaiha**  
   [negin.babaiha@scai.fraunhofer.de](mailto:negin.babaiha@scai.fraunhofer.de)  
   [Google Scholar Profile](https://scholar.google.com/citations?user=OwT3AMQAAAAJ&hl=en&oi=ao)  
 
