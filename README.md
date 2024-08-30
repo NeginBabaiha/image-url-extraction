@@ -41,11 +41,8 @@ To get started with the project, follow these steps:
 
 ## Usage
 
-1. **Configure the search parameters:**
 
-    Open the `config.py` file and set your search query and other parameters.
-
-2. **Run the script:**
+1. **Run the script:**
 
     Execute the main script to start the image search and URL extraction:
 
@@ -53,7 +50,7 @@ To get started with the project, follow these steps:
     python main.py
     ```
 
-3. **View results:**
+2. **View results:**
 
     The extracted image URLs will be saved in the `output/urls.txt` file.
 
@@ -65,6 +62,9 @@ For any questions or further information, please contact:
   [s7phmuen@uni-bonn.de](mailto:s7phmuen@uni-bonn.de)  
 - **Negin Babaiha**  
   [negin.babaiha@scai.fraunhofer.de](mailto:negin.babaiha@scai.fraunhofer.de)  
-  [Google Scholar Profile](https://scholar.google.com/citations?user=OwT3AMQAAAAJ&hl=en&oi=ao)  
+  [Google Scholar Profile](https://scholar.google.com/citations?user=OwT3AMQAAAAJ&hl=en&oi=ao)
+
+  ![PyPI](https://img.shields.io/pypi/v/your-package-name)
+
 
 Feel free to reach out for any questions or discussions regarding the project.
