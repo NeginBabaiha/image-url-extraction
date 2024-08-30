@@ -64,7 +64,7 @@ For any questions or further information, please contact:
   [negin.babaiha@scai.fraunhofer.de](mailto:negin.babaiha@scai.fraunhofer.de)  
   [Google Scholar Profile](https://scholar.google.com/citations?user=OwT3AMQAAAAJ&hl=en&oi=ao)
 
-  ![PyPI](https://img.shields.io/pypi/v/your-package-name)
+  ![PyPI](https://pypi.org/manage/project/image-scraper-tool/collaboration/)
 
 
 Feel free to reach out for any questions or discussions regarding the project.
